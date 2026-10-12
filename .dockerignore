@@ -1,0 +1,7 @@
+.git
+.github
+.venv
+tests
+supplyx
+vendor
+*.md
